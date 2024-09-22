@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sandaruwan-senanayaka/details/projects/](https://www.linkedin.com/in/sandaruwan-senanayaka/details/projects/)
 
-- 💬 Ask me about **react, java, nextjs, javascript, spring-boot, c#, asp.net8**
+- 💬 Ask me about **Java, React, Angular, NextJs, JavaScript, Spring-Boot, C#, Asp.Net8**
 
 - 📫 How to reach me **sandaruwansenanayaka.info@gmail.com**
 

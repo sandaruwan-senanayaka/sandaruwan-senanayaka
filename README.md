@@ -2,8 +2,11 @@
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 I’m currently working on **freelance projects**
+
 All of my projects are available at [https://www.linkedin.com/in/sandaruwan-senanayaka/details/projects/](https://www.linkedin.com/in/sandaruwan-senanayaka/details/projects/)
-Ask me about **Java, React, Angular, NextJs, JavaScript, Spring-Boot, C#, Asp.Net8**
+
+Ask me about **Java, React, NextJs, JavaScript, Spring-Boot, C#, Asp.Net8**
+
 How to reach me **sandaruwansenanayaka.info@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

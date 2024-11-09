@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sandaruwan Senanayaka</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h3>Hi 👋, I’m <strong>Sandaruwan Senanayaka</strong> </h3>
+<hr/>
+  
+<p>I'm a passionate <strong>Full Stack Developer</strong> from <strong>Sri Lanka</strong> with a focus on building scalable and high-quality web applications.</p>
 
-I’m currently working on **freelance projects**
+<p>🚀 I specialize in <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>React</strong>, <strong>Next.js</strong>, <strong>JavaScript</strong>, <strong>C#</strong>, and <strong>ASP.NET 8</strong>. I thrive on delivering clean, efficient code while following best practices.</p>
 
-All of my projects are available at [https://www.linkedin.com/in/sandaruwan-senanayaka/details/projects/](https://www.linkedin.com/in/sandaruwan-senanayaka/details/projects/)
+<p>🔗 All of my projects are available on <a href="https://www.linkedin.com/in/sandaruwan-senanayaka/details/projects/" target="_blank">LinkedIn Projects</a>.</p>
 
-Ask me about **Java, React, NextJs, JavaScript, Spring-Boot, C#, Asp.Net8**
-
-How to reach me **sandaruwansenanayaka.info@gmail.com**
+<p>📬 Feel free to reach out to me via email at <a href="mailto:sandaruwansenanayaka.info@gmail.com">sandaruwansenanayaka.info@gmail.com</a> for collaboration or inquiries.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

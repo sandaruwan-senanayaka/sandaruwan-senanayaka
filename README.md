@@ -7,8 +7,6 @@
 
 <p>🔗 All of my projects are available on <a href="https://www.linkedin.com/in/sandaruwan-senanayaka/details/projects/" target="_blank">LinkedIn Projects</a>.</p>
 
-<p>📬 Feel free to reach out to me via email at <a href="mailto:sandaruwansenanayaka.info@gmail.com">sandaruwansenanayaka.info@gmail.com</a> for collaboration or inquiries.</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sandaruwan-senanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandaruwan-senanayaka" height="30" width="40" /></a>
